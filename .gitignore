@@ -151,3 +151,4 @@ hs_err_pid*
 /.gradle
 /build
 /resources/logback.xml
+/resources/jwt.properties
